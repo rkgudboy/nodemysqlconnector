@@ -1,7 +1,7 @@
 nodemysqlconnector
 ==================
 
-A project to check status of InnoDB plugin in MySQL though NodeJS
+A project to check status of InnoDB plugin in MySQL through NodeJS
 -----------------------------------------------------------------
 
 Please follow following steps to run this project:
